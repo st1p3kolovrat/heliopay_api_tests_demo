@@ -22,8 +22,7 @@ Otherwise, tests will fail on authentication. This approach would not be used in
 To add jwt, grab it from browser (after you login) and pass it in terminal befoer behave command: 
 `export JWT_TOKEN={HERE_PASTE_JWT_VALUE}`
 
-![Screenshot 2024-02-01 at 5.05.28 PM.png](..%2F..%2F..%2F..%2FDesktop%2FScreenshot%202024-02-01%20at%205.05.28%20PM.png)
-
+![Screenshot Test_Run.png](Screenshot_Test_Run.png)
 
 
 >Via IDE

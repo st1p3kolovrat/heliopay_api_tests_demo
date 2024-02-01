@@ -1,0 +1,168 @@
+{
+	"id": "",
+	"description": "Paylink Description",
+	"template": "LEGACY",
+	"disabled": false,
+	"inactive": false,
+	"notifySenderByEmail": false,
+	"notifyReceiverByEmail": false,
+	"addDiscordRole": false,
+	"helioPlayProperties": null,
+	"features": {
+		"canChangeQuantity": false,
+		"canChangePrice": false,
+		"requireQuantityLimits": false,
+		"requireCountry": false,
+		"requireEmail": false,
+		"requireDeliveryAddress": false,
+		"requireDiscordUsername": false,
+		"requireDiscordLogin": false,
+		"requireFullName": false,
+		"requirePhoneNumber": false,
+		"requireTwitterUsername": false,
+		"requireProductDetails": false,
+		"requireMaxTransactions": false,
+		"requireNftGate": false,
+		"requireDiscordAuth": false,
+		"requireAccessCode": false,
+		"requireXFollow": false,
+		"splitRevenue": false,
+		"splitEqually": false,
+		"canSwapTokens": false,
+		"isHelioPlay": false,
+		"isTransparentWallet": false,
+		"nftDropEnabled": false,
+		"showDiscountCode": false,
+		"isEscrowed": false,
+		"requireAllowlist": false,
+		"requireTradingViewUsername": false,
+		"allowAffiliate": false,
+		"requireAirdrop": false,
+		"isEventEnabled": false,
+		"enableCountdown": false
+	},
+	"name": "S Paylink SOL",
+	"discordAuthDetails": [],
+	"dynamic": false,
+	"affiliateDetails": null,
+	"price": "20000000",
+	"normalizedPrice": "20000000",
+	"content": {},
+	"creator": {
+		"id": "659e614388ce9e32da7cf500",
+		"email": "jack.willow@yopmail.com",
+		"name": "Jack Willow",
+		"isDisabled": false,
+		"kycVerified": false,
+		"platformDetails": {
+			"platform": "HELIO"
+		}
+	},
+	"company": {
+		"id": "659e614388ce9e32da7cf502",
+		"discordUsername": "",
+		"escrowFunds": false,
+		"twitterConfirmed": false
+	},
+	"currency": {
+		"id": "63430c8348c610068bcdc474",
+		"name": "Solana",
+		"decimals": 9,
+		"order": 3,
+		"mintAddress": "11111111111111111111111111111111",
+		"coinMarketCapId": 5426,
+		"symbol": "SOL",
+		"symbolPrefix": "",
+		"type": "DIGITAL",
+		"iconUrl": "SOL.svg",
+		"features": [
+			"PAYMENT_PRICING",
+			"PAYMENT_RECIPIENT",
+			"SWAP"
+		],
+		"blockchain": {
+			"id": "63430c8348c610068bcdc43c",
+			"name": "SOL",
+			"symbol": "SOL",
+			"engine": {
+				"id": "63b574b9d07b6f6f21c13eb2",
+				"type": "SOL"
+			}
+		}
+	},
+	"wallet": {
+		"id": "65a6819580e86ca45b75c03c",
+		"publicKey": "7vVxLsiAG4ewNDzxqecHvX49ZCotHrCjPeDcEN1dg7Nx",
+		"btcProperties": null
+	},
+	"recipients": [
+		{
+			"currency": {
+				"id": "63430c8348c610068bcdc474",
+				"name": "Solana",
+				"decimals": 9,
+				"order": 3,
+				"mintAddress": "11111111111111111111111111111111",
+				"coinMarketCapId": 5426,
+				"symbol": "SOL",
+				"symbolPrefix": "",
+				"type": "DIGITAL",
+				"iconUrl": "SOL.svg",
+				"features": [
+					"PAYMENT_PRICING",
+					"PAYMENT_RECIPIENT",
+					"SWAP"
+				],
+				"blockchain": {
+					"id": "63430c8348c610068bcdc43c",
+					"name": "SOL",
+					"symbol": "SOL",
+					"engine": {
+						"id": "63b574b9d07b6f6f21c13eb2",
+						"type": "SOL"
+					}
+				}
+			},
+			"wallet": {
+				"id": "65a6819580e86ca45b75c03c",
+				"publicKey": "7vVxLsiAG4ewNDzxqecHvX49ZCotHrCjPeDcEN1dg7Nx",
+				"btcProperties": null,
+				"blockchainEngine": {
+					"id": "63b574b9d07b6f6f21c13eb2",
+					"type": "SOL"
+				}
+			}
+		}
+	],
+	"volume": 0,
+	"sales": "0",
+	"product": null,
+	"discountCodes": [],
+	"discordRoleIds": [],
+	"pricingCurrency": {
+		"id": "63430c8348c610068bcdc474",
+		"name": "Solana",
+		"decimals": 9,
+		"order": 3,
+		"mintAddress": "11111111111111111111111111111111",
+		"coinMarketCapId": 5426,
+		"symbol": "SOL",
+		"symbolPrefix": "",
+		"type": "DIGITAL",
+		"iconUrl": "SOL.svg",
+		"features": [
+			"PAYMENT_PRICING",
+			"PAYMENT_RECIPIENT",
+			"SWAP"
+		],
+		"blockchain": {
+			"id": "63430c8348c610068bcdc43c",
+			"name": "SOL",
+			"symbol": "SOL",
+			"engine": {
+				"id": "63b574b9d07b6f6f21c13eb2",
+				"type": "SOL"
+			}
+		}
+	}
+}

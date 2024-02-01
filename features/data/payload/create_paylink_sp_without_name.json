@@ -1,0 +1,13 @@
+{
+  "description": "Stipe Paylink Description",
+  "pricingCurrency": "63430c8348c610068bcdc474",
+  "currency": "SOL",
+  "recipients": [
+    {
+      "walletId": "65a6819580e86ca45b75c03c",
+      "currencyId": "63430c8348c610068bcdc474"
+    }
+  ],
+  "price": "20000000",
+  "features": {}
+}
